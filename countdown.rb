@@ -11,7 +11,7 @@ def countdown (number)
   return "HAPPY NEW YEAR!"
 end
 
-countdown(15)
+countdown(5)
 
 def countdown_with_sleep (number)
   counter = 0
@@ -25,4 +25,4 @@ def countdown_with_sleep (number)
   return "HAPPY NEW YEAR!"
 end
 
-countdown_with_sleep(15)
+countdown_with_sleep(5)
